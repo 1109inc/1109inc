@@ -37,7 +37,7 @@ Currently, I’m sharpening my skills in **SQL, Power BI, Python, and Statistics
 - Created a tool that extracts **insights from YouTube playlists** using AI  
 - Summarized top artists, genres, and moods  
 - Useful for **music discovery & personalization**  
-- **[View Repo](https://github.com/1109inc/wawes2.0)**  
+- **[Link](wawes.vercel.app)**  
 
 ---
 
